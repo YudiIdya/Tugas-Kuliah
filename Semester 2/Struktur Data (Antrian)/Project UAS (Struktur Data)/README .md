@@ -8,5 +8,10 @@
 
 atau bisa membaca apa saja Library yang di butuhkan di dalam (requirements.txt)
 
-## ----
+## Cara Menjalankan File
+    copy path penyimpanan python ke cmd dengan 
+    cd C\user\namafile
+    kemudian jalankan python main.py
+
+## Kesimpulan
     dengan adanya project ini, semoga bisa membuat pemahaman mahasiswa menjadi lebih baik dalam queue, dan mengimplementasikan nya dalam kehidupan sehari hari
